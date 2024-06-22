@@ -1,0 +1,15 @@
+th{
+   background-color: #800000;
+   border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+	color: #ffffff
+	
+    }
+
+h1, h3{
+	color:#800000;
+}
+.tbl2{
+	border: 8px;
+}
